@@ -43,6 +43,6 @@ end
 # To use debugger
 # gem 'debugger'
 
-group :prodcution do
+group :production do
   gem 'fcgi'
 end
